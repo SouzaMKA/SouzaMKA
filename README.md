@@ -1,4 +1,4 @@
-### Olá galera 👋
+### Olá galera :coffee:
 
 Sou profissional com experiência na área de programação, desenvolvimento front-end de sistemas web, manutenções e aplicações destes sistemas. Atuando no desenvolvimento de sistemas internos utilizando majoritariamente react. Tendo como objetivo melhorar ainda mais a produtividade da empresa como um todo, através de ferramentas de controle internos.
 
